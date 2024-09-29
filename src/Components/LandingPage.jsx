@@ -15,7 +15,7 @@ function LandingPage() {
                                 <img src="" alt=""/>
                             </div>
                         )}
-                        <h1 className="uppercase text-8xl text-[#212121] -leading-[9vw] tracking-tighter font-bold  font-   ['Founders Grotesk Condensed']">{item}
+                        <h1 className="uppercase text-8xl text-[#212121] -leading-[9vw] tracking-tighter font-bold  font-['Founders Grotesk Condensed']">{item}
                         </h1>
                     </div>
                 </div>
